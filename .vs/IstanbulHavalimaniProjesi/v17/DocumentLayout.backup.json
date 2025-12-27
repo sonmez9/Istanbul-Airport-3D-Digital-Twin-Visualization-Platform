@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0130MDAT S\u00D6NMEZ\\Source\\Repos\\IstanbulHavalimaniProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{297BAC95-2A50-4AB7-A3C4-1F26C6D3CE73}|IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi.csproj|c:\\users\\\u0130mdat s\u00F6nmez\\source\\repos\\istanbulhavalimaniprojesi\\istanbulhavalimaniprojesi\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{297BAC95-2A50-4AB7-A3C4-1F26C6D3CE73}|IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi.csproj|solutionrelative:istanbulhavalimaniprojesi\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297BAC95-2A50-4AB7-A3C4-1F26C6D3CE73}|IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi.csproj|c:\\users\\\u0130mdat s\u00F6nmez\\source\\repos\\istanbulhavalimaniprojesi\\istanbulhavalimaniprojesi\\generate_lods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{297BAC95-2A50-4AB7-A3C4-1F26C6D3CE73}|IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi.csproj|solutionrelative:istanbulhavalimaniprojesi\\generate_lods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297BAC95-2A50-4AB7-A3C4-1F26C6D3CE73}|IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi.csproj|c:\\users\\\u0130mdat s\u00F6nmez\\source\\repos\\istanbulhavalimaniprojesi\\istanbulhavalimaniprojesi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{297BAC95-2A50-4AB7-A3C4-1F26C6D3CE73}|IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi.csproj|solutionrelative:istanbulhavalimaniprojesi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297BAC95-2A50-4AB7-A3C4-1F26C6D3CE73}|IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi.csproj|c:\\users\\\u0130mdat s\u00F6nmez\\source\\repos\\istanbulhavalimaniprojesi\\istanbulhavalimaniprojesi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297BAC95-2A50-4AB7-A3C4-1F26C6D3CE73}|IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi.csproj|solutionrelative:istanbulhavalimaniprojesi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297BAC95-2A50-4AB7-A3C4-1F26C6D3CE73}|IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi.csproj|c:\\users\\\u0130mdat s\u00F6nmez\\source\\repos\\istanbulhavalimaniprojesi\\istanbulhavalimaniprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297BAC95-2A50-4AB7-A3C4-1F26C6D3CE73}|IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi.csproj|solutionrelative:istanbulhavalimaniprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\\u0130MDAT S\u00D6NMEZ\\Source\\Repos\\IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "IstanbulHavalimaniProjesi\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\\u0130MDAT S\u00D6NMEZ\\Source\\Repos\\IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "IstanbulHavalimaniProjesi\\wwwroot\\js\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-13T12:17:23.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "generate_lods.js",
+              "DocumentMoniker": "C:\\Users\\\u0130MDAT S\u00D6NMEZ\\Source\\Repos\\IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi\\generate_lods.js",
+              "RelativeDocumentMoniker": "IstanbulHavalimaniProjesi\\generate_lods.js",
+              "ToolTip": "C:\\Users\\\u0130MDAT S\u00D6NMEZ\\Source\\Repos\\IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi\\generate_lods.js",
+              "RelativeToolTip": "IstanbulHavalimaniProjesi\\generate_lods.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-13T13:14:12.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130MDAT S\u00D6NMEZ\\Source\\Repos\\IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IstanbulHavalimaniProjesi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u0130MDAT S\u00D6NMEZ\\Source\\Repos\\IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IstanbulHavalimaniProjesi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:02:18.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130MDAT S\u00D6NMEZ\\Source\\Repos\\IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi\\Program.cs",
+              "RelativeDocumentMoniker": "IstanbulHavalimaniProjesi\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0130MDAT S\u00D6NMEZ\\Source\\Repos\\IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi\\Program.cs",
+              "RelativeToolTip": "IstanbulHavalimaniProjesi\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:25:20.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\\u0130MDAT S\u00D6NMEZ\\Source\\Repos\\IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "IstanbulHavalimaniProjesi\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\\u0130MDAT S\u00D6NMEZ\\Source\\Repos\\IstanbulHavalimaniProjesi\\IstanbulHavalimaniProjesi\\wwwroot\\index.html",
+              "RelativeToolTip": "IstanbulHavalimaniProjesi\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-16T18:08:03.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
